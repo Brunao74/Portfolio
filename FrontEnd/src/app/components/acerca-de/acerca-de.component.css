@@ -1,0 +1,11 @@
+div{
+    background-color: sandybrown;
+}
+#nombre {
+    font-weight: bold;
+    text-align: center;
+}
+#titulo {
+    font-weight: bolder;
+    text-align: center;
+}
